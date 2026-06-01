@@ -1,66 +1,66 @@
 # Homespace — Community Feedback Backlog
 
-Авто-сбор фидбэка из QQ-групп (QQ official groups 689386183 (1群) + 375297887 (2群)). Снапшот: **2026-06-01**.
+Идеи, опасения, жалобы и вопросы игроков, собранные из QQ-групп (官方交流 1群 + 2群). Снапшот: **2026-06-01**.
 
-Глобальное разделение по категориям (клик по метке = фильтр):
+Разбито по категориям — клик по ссылке открывает только её карточки:
 
 ## 🟢 Предложения / фичи (18)
-[→ все с меткой `suggestion`](https://github.com/rossinantexd-maker/homespace-community-feedback/issues?q=is%3Aissue+label%3Asuggestion)
+[→ открыть все «suggestion»](https://github.com/rossinantexd-maker/homespace-community-feedback/issues?q=is%3Aissue+label%3Asuggestion)
 
-- [#1](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/1) Board games inside spaces: prioritize copyright-safe classics
-- [#2](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/2) Board games: hardcore option — Avalon (recommended), Warhammer, TRPG
-- [#3](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/3) Board games: let players build their own via mod (copyright workaround)
-- [#4](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/4) Mirrors / specular reflection for immersion
-- [#5](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/5) Furniture auto-snap / grid alignment (incl. curved/Bezier)
-- [#6](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/6) Mod API + Steam Workshop (third-party games, voxel, translation packs)
-- [#7](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/7) Professional 'advanced' mode: CAD import, dimensions, MEP, model import/export
-- [#8](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/8) In-game phone with mini-games + friend chat
-- [#9](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/9) In-game 'study room / classroom' social space
-- [#10](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/10) Record player / music switching + ambiance
-- [#11](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/11) Local image upload: picture frames + video screens
-- [#12](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/12) Custom avatar / face creation (捏脸)
-- [#13](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/13) Real-time scenery / skybox backgrounds with weather; stacking weather presets
-- [#14](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/14) 3D-print export of in-game models
-- [#15](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/15) Mobile companion viewer (view-only)
-- [#16](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/16) Live mode ↔ VRChat-style social / possible interop
-- [#17](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/17) Pets (AI-controlled) + cooking + garden/fishing (low priority)
-- [#18](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/18) Multiplayer simultaneous building + LAN
+- [#1](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/1) — Playable board games inside your home
+- [#2](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/2) — Board games — the longer 'role-play' option
+- [#3](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/3) — Let players make their own board games (via mods)
+- [#4](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/4) — Mirrors and reflective surfaces
+- [#5](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/5) — Snapping and alignment for furniture
+- [#6](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/6) — Modding API + Steam Workshop
+- [#7](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/7) — A professional / CAD mode for designers
+- [#8](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/8) — An in-game phone (chat + mini-games)
+- [#9](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/9) — A shared 'study room / classroom' space
+- [#10](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/10) — A record player to set the mood
+- [#11](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/11) — Upload your own images and videos
+- [#12](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/12) — Avatar / face customization
+- [#13](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/13) — Scenery backgrounds + richer weather
+- [#14](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/14) — Export models for 3D printing
+- [#15](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/15) — A view-only mobile companion app
+- [#16](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/16) — A VRChat-style social ('live') mode
+- [#17](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/17) — Pets, cooking, gardening and fishing
+- [#18](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/18) — Build together (co-op) + LAN play
 
 ## 🟠 Опасения (8)
-[→ все с меткой `concern`](https://github.com/rossinantexd-maker/homespace-community-feedback/issues?q=is%3Aissue+label%3Aconcern)
+[→ открыть все «concern»](https://github.com/rossinantexd-maker/homespace-community-feedback/issues?q=is%3Aissue+label%3Aconcern)
 
-- [#19](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/19) Selling point unclear / feels monotonous vs other building games
-- [#20](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/20) Online 'big world with rankings' won't scale (server cost/legal)
-- [#21](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/21) Performance / high PC requirements (higher than Minecraft)
-- [#22](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/22) Dev team overload — too many requests, too few people
-- [#23](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/23) Board-game IP / copyright risk
-- [#24](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/24) Pro vs entertainment balance — fear it loses the fun
-- [#25](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/25) Fear of vaporware / 'pay and never ship'
-- [#26](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/26) Access barrier: Steam/VPN for mainland users
+- [#19](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/19) — Concern: "what's the actual selling point?"
+- [#20](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/20) — Concern: the online 'big world' won't scale
+- [#21](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/21) — Concern: will my PC even run it?
+- [#22](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/22) — Concern: the team is overloaded
+- [#23](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/23) — Concern: copyright on board games
+- [#24](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/24) — Concern: too 'professional', loses the fun
+- [#25](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/25) — Concern: will it actually ship?
+- [#26](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/26) — Concern: just getting to Steam (VPN barrier)
 
 ## 🔴 Жалобы / критика (6)
-[→ все с меткой `complaint`](https://github.com/rossinantexd-maker/homespace-community-feedback/issues?q=is%3Aissue+label%3Acomplaint)
+[→ открыть все «complaint»](https://github.com/rossinantexd-maker/homespace-community-feedback/issues?q=is%3Aissue+label%3Acomplaint)
 
-- [#27](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/27) No demo → 'can't give real feedback, ship it already' (viral)
-- [#28](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/28) Promo created misconceptions (free? like MC? online MMO?)
-- [#29](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/29) No official info doc — real-time human Q&A is inefficient
-- [#30](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/30) Old videos said 'free' — now confusion that it's paid
-- [#31](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/31) Inconsistent answers across groups (e.g. Mahjong)
-- [#32](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/32) Douyin account underperforming (videos too long)
+- [#27](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/27) — "Just release the demo already"
+- [#28](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/28) — Marketing created the wrong expectations
+- [#29](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/29) — No basic info doc — Q&A is inefficient
+- [#30](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/30) — Old videos implied 'free' — now confusion
+- [#31](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/31) — Groups give inconsistent answers
+- [#32](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/32) — Fan Douyin account is underperforming
 
 ## 🔵 Вопросы → FAQ (13)
-[→ все с меткой `faq`](https://github.com/rossinantexd-maker/homespace-community-feedback/issues?q=is%3Aissue+label%3Afaq)
+[→ открыть все «faq»](https://github.com/rossinantexd-maker/homespace-community-feedback/issues?q=is%3Aissue+label%3Afaq)
 
-- [#33](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/33) When is the demo? Is it free?
-- [#34](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/34) When is full release? How much does it cost?
-- [#35](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/35) Is the game free? (old videos said so)
-- [#36](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/36) What engine? Is there Chinese language?
-- [#37](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/37) Is there VR?
-- [#38](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/38) Mobile / Mac support?
-- [#39](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/39) Multiplayer / co-op building?
-- [#40](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/40) Mods / Steam Workshop?
-- [#41](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/41) Is it like Minecraft?
-- [#42](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/42) Pets? Custom avatar/face?
-- [#43](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/43) Is there a physics system?
-- [#44](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/44) Minimum PC spec?
-- [#45](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/45) Blacklist + chat system?
+- [#33](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/33) — FAQ: When is the demo? Is it free?
+- [#34](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/34) — FAQ: Full release date and price?
+- [#35](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/35) — FAQ: Is the game free?
+- [#36](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/36) — FAQ: What engine? Is there Chinese?
+- [#37](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/37) — FAQ: Is there VR?
+- [#38](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/38) — FAQ: Phone / Mac support?
+- [#39](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/39) — FAQ: Multiplayer / co-op building?
+- [#40](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/40) — FAQ: Mods and Steam Workshop?
+- [#41](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/41) — FAQ: Is it just a prettier Minecraft?
+- [#42](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/42) — FAQ: Pets? Avatar customization?
+- [#43](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/43) — FAQ: Is there a physics system?
+- [#44](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/44) — FAQ: Minimum PC spec? (needs confirming)
+- [#45](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/45) — FAQ: Blacklist and chat system?
