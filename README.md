@@ -1,15 +1,20 @@
 # Homespace — Community Feedback Backlog
 
-Идеи, опасения, жалобы и вопросы игроков, собранные из QQ-групп (官方交流 1群 + 2群). Снапшот: **2026-06-01**.
+Идеи, опасения, жалобы и вопросы игроков из QQ-групп (官方交流 1群 + 2群). Снапшот: **2026-06-01**.
 
-Разбито по категориям — клик по ссылке открывает только её карточки:
+Разбито по категориям — клик открывает только её карточки:
 
-## 🟢 Предложения / фичи (18)
-[→ открыть все «suggestion»](https://github.com/rossinantexd-maker/homespace-community-feedback/issues?q=is%3Aissue+label%3Asuggestion)
+## 🎲 Настолки (Artem спрашивал) (4)
+[→ открыть все «board-games»](https://github.com/rossinantexd-maker/homespace-community-feedback/issues?q=is%3Aissue+label%3Aboard-games)
 
-- [#1](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/1) — Playable board games inside your home
+- [#1](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/1) — Board games to add — the full community wishlist
 - [#2](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/2) — Board games — the longer 'role-play' option
 - [#3](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/3) — Let players make their own board games (via mods)
+- [#23](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/23) — Concern: copyright on board games
+
+## 🟢 Предложения / фичи (15)
+[→ открыть все «suggestion»](https://github.com/rossinantexd-maker/homespace-community-feedback/issues?q=is%3Aissue+label%3Asuggestion)
+
 - [#4](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/4) — Mirrors and reflective surfaces
 - [#5](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/5) — Snapping and alignment for furniture
 - [#6](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/6) — Modding API + Steam Workshop
@@ -26,14 +31,13 @@
 - [#17](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/17) — Pets, cooking, gardening and fishing
 - [#18](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/18) — Build together (co-op) + LAN play
 
-## 🟠 Опасения (8)
+## 🟠 Опасения (7)
 [→ открыть все «concern»](https://github.com/rossinantexd-maker/homespace-community-feedback/issues?q=is%3Aissue+label%3Aconcern)
 
 - [#19](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/19) — Concern: "what's the actual selling point?"
 - [#20](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/20) — Concern: the online 'big world' won't scale
 - [#21](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/21) — Concern: will my PC even run it?
 - [#22](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/22) — Concern: the team is overloaded
-- [#23](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/23) — Concern: copyright on board games
 - [#24](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/24) — Concern: too 'professional', loses the fun
 - [#25](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/25) — Concern: will it actually ship?
 - [#26](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/26) — Concern: just getting to Steam (VPN barrier)
