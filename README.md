@@ -1,6 +1,6 @@
 # Homespace — Community Feedback Backlog
 
-Авто-сбор фидбэка из QQ-групп (官方交流群 1群/2群/3群). Обновлено: **2026-06-22**.
+Авто-сбор фидбэка из QQ-групп (官方交流群 1群/2群/3群). Обновлено: **2026-06-24**.
 
 Разделение по категориям (клик по метке = фильтр):
 
@@ -12,7 +12,7 @@
 - [#3](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/3) Let players make their own board games (via mods)
 - [#23](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/23) Concern: copyright on board games
 
-## 🟢 Предложения / фичи (40)
+## 🟢 Предложения / фичи (44)
 [→ все с меткой `suggestion`](https://github.com/rossinantexd-maker/homespace-community-feedback/issues?q=is%3Aissue+label%3Asuggestion)
 
 - [#4](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/4) Mirrors and reflective surfaces
@@ -55,8 +55,12 @@
 - [#70](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/70) Electrical wiring / circuit switches for lights
 - [#71](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/71) Show the player's own body in first-person
 - [#72](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/72) Unlock exclusive music via achievements
+- [#76](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/76) Prop-hunt / hide-and-seek co-op mode
+- [#77](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/77) Connect houses into a shared neighborhood you can visit
+- [#78](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/78) In-game command/scripting to build mini-games (no mods needed)
+- [#79](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/79) Terraform / edit the outdoor terrain around your house
 
-## 🟠 Опасения (12)
+## 🟠 Опасения (15)
 [→ все с меткой `concern`](https://github.com/rossinantexd-maker/homespace-community-feedback/issues?q=is%3Aissue+label%3Aconcern)
 
 - [#19](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/19) Concern: "what's the actual selling point?"
@@ -71,6 +75,9 @@
 - [#73](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/73) Concern: will saves survive game updates?
 - [#74](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/74) Concern: Windows 10 support (not Win11-only)
 - [#75](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/75) Concern: ranking system could be gamed for ads / griefing
+- [#80](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/80) Concern: motion sickness / 3D vertigo comfort options
+- [#81](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/81) Concern: protecting user-uploaded models / avatars from theft
+- [#82](https://github.com/rossinantexd-maker/homespace-community-feedback/issues/82) Concern: build height limits & performance on huge / tall builds
 
 ## 🔴 Жалобы / критика (6)
 [→ все с меткой `complaint`](https://github.com/rossinantexd-maker/homespace-community-feedback/issues?q=is%3Aissue+label%3Acomplaint)
